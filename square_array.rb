@@ -5,4 +5,4 @@ def square_array(array)
     final_array << num ** 2 
   end
   final_array
-endx
+end
